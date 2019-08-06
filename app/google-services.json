@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "979848489640",
+    "firebase_url": "https://swiperent-robertld.firebaseio.com",
+    "project_id": "swiperent-robertld",
+    "storage_bucket": "swiperent-robertld.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979848489640:android:98b6bba552d3a5d0",
+        "android_client_info": {
+          "package_name": "robert.derienzo.swiperent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979848489640-d27d6r9t0nmgf97hj8il443linjblm95.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "robert.derienzo.swiperent",
+            "certificate_hash": "08a6dd3b5dd29e373e003a0b66eba61e7a346987"
+          }
+        },
+        {
+          "client_id": "979848489640-sm8u99kam8s75dv287iusqjnlvidujab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeZ88Q_YZu7MuRNTTN4-NT4pLBVTJAA-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979848489640-sm8u99kam8s75dv287iusqjnlvidujab.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
